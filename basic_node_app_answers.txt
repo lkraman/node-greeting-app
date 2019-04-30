@@ -1,0 +1,13 @@
+Basic Node App
+
+What is a Node module?
+
+A module is a function or a group of function. They are completely encapsulated, loosely bound, and work similarly to React’s components.
+
+What is the main difference between exports and module.exports?
+
+Module.exports is what gets returned at the end of the expression. Exports makes references to the module.export.
+
+Why is using exports recommended?
+
+Exports is a convenient way to write less code. Export can be reassigned. However, module.exports cannot.
